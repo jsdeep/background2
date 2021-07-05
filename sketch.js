@@ -1,12 +1,8 @@
-var img1;
-var color;
-function preload(){
-  img1=loadImage("download.png");
-}
+
 
 function setup() {
   createCanvas(400,400);
-  //color = createSprite(200,200,200,200)
+  
   }
 
 function draw() 
